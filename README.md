@@ -9,6 +9,7 @@ This project showcases a big data processing pipeline for cryptocurrency data us
 - [Batch Processing Layer](#batch-processing-layer)
 - [Streaming Layer](#streaming-layer)
 - [Data Storage and Visualization](#data-storage-and-visualization)
+- [Demo](#demo)
 
 
 ## Data Pipeline
@@ -59,6 +60,7 @@ In the streaming layer, Apache Spark Streaming is used to process the streaming 
 
 The data is then stored in a MongoDB database and sent through a Node server to be visualized on a React dashboard.
 
+## Demo
 
 ![Demo](./assets/viz.gif)
 
