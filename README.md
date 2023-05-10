@@ -15,7 +15,7 @@ This project showcases a big data processing pipeline for cryptocurrency data us
 
 The following image shows our pipeline's architecture:
 
-![Data Pipeline](./assets/data_pipeline.png)
+![Data Pipeline](./BigDataArchitecture.png)
 
 ## Dataset
 
