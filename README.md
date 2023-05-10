@@ -54,7 +54,7 @@ In the batch processing layer, Hadoop MapReduce is used to process the daily bat
 
 ## Streaming Layer
 
-In the streaming layer, Apache Spark Streaming is used to process the streaming data. Spark Streaming consumes the data from the Kafka topic and visualizes the variation of the volume weighted average price, the min, the max, and the count for every timestamp (minute).
+In the streaming layer, Apache Spark Streaming is used to process the streaming data. Spark Streaming consumes the data from the Kafka topic, simulating real world streamed data, and visualizes the variation of the volume weighted average price, the min, the max, and the count for every timestamp (minute).
 
 ## Data Storage and Visualization
 
